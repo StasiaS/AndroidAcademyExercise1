@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Отправка почты</string>
+    <string name="type_your_message_here">Напишите свое сообщение здесь</string>
+    <string name="preview">Просмотреть</string>
+    <string name="we_love_android">Мы любим Андроид</string>
+    <string name="no_email_app_found">Не найдено приложений для отправки почты</string>
+    <string name="email">Почта</string>
+</resources>
